@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
           . "📍 *City:* $city\n"
           . "📝 *Message:* $message";
 
-    $url = "https://wa.me/917665062706?text=" . rawurlencode($text);
+    $url = "https://wa.me/918639658712?text=" . rawurlencode($text);
 
     header("Location: " . $url);
     exit;

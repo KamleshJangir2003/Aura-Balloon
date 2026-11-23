@@ -12,14 +12,14 @@ files_to_update = [
 
 base_path = r'c:\Users\Admin\Downloads\baloon'
 
-old_button = r'<a href="https://wa.me/917665062706" class="wa" target="_blank">💬</a>'
+old_button = r'<a href="https://wa.me/918639658712" class="wa" target="_blank">💬</a>'
 
 new_buttons = '''<!-- Floating Buttons -->
 <div class="float-btns">
-  <a href="tel:+917665062706"
-   onclick="return gtag_report_conversion('tel:+917665062706');"
+  <a href="tel:+918639658712"
+   onclick="return gtag_report_conversion('tel:+918639658712');"
    class="float-btn call" title="Call Now">📞</a>
-  <a href="https://wa.me/917665062706" class="float-btn wa" target="_blank" title="Chat on WhatsApp">💬</a>
+  <a href="https://wa.me/918639658712" class="float-btn wa" target="_blank" title="Chat on WhatsApp">💬</a>
 </div>'''
 
 for filename in files_to_update:
