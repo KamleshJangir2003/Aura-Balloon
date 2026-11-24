@@ -11,7 +11,7 @@ $c = $c.Replace('Contact Aura Balloon Decoration Noida | Book Your Event', 'Cont
 $c = $c.Replace('Contact us for balloon decoration in Noida. Call or WhatsApp +91 86396 58712. Quick response guaranteed!', 'Contact Aura Balloon Decoration Noida. Call or WhatsApp +91 86396 58712 for all event decoration bookings. Serving Vijay Nagar, Palasia & all Noida areas!')
 
 # BreadcrumbList schema improvement
-$c = $c.Replace('{"@type":"ListItem","position":2,"name":"Contact Us","item":"https://www.shriballoondecoration.com/contact.html"}', '{"@type":"ListItem","position":2,"name":"Contact Balloon Decorator Noida","item":"https://www.shriballoondecoration.com/contact.html"}')
+$c = $c.Replace('{"@type":"ListItem","position":2,"name":"Contact Us","item":"https://auraballoondecor.in//contact.html"}', '{"@type":"ListItem","position":2,"name":"Contact Balloon Decorator Noida","item":"https://auraballoondecor.in//contact.html"}')
 
 # Add LocalBusiness schema after breadcrumb schema
 $oldBread = '</script>
@@ -24,10 +24,10 @@ $newBread = '</script>
   "@type": "LocalBusiness",
   "name": "Aura Balloon Decoration Noida",
   "description": "Best balloon and event decoration service in Noida for birthdays, anniversaries, weddings, baby showers, corporate events and all occasions.",
-  "url": "https://www.shriballoondecoration.com",
+  "url": "https://auraballoondecor.in/",
   "telephone": "+918639658712",
   "email": "ramanmoond44@gmail.com",
-  "image": "https://www.shriballoondecoration.com/image/banners/banner1.png",
+  "image": "https://auraballoondecor.in//image/banners/banner1.png",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Noida",

@@ -15,4 +15,4 @@ Disallow: /fix_pet.ps1
 Disallow: /fix_showroom.ps1
 Disallow: /seo_fix.ps1
 
-Sitemap: https://www.shriballoondecoration.com/sitemap.xml
+Sitemap: https://auraballoondecor.in//sitemap.xml

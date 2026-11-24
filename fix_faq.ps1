@@ -11,7 +11,7 @@ $c = $c.Replace('FAQ - Balloon Decoration Noida | Aura Balloon', 'FAQ - Balloon 
 $c = $c.Replace('Get answers to common questions about balloon decoration services in Noida. Same-day booking, pricing & more.', 'Get answers to common questions about balloon decoration in Noida. Same-day booking, pricing, areas served & more. Vijay Nagar, Palasia & all Noida areas.')
 
 # BreadcrumbList schema improvement
-$c = $c.Replace('{"@type":"ListItem","position":2,"name":"FAQ","item":"https://www.shriballoondecoration.com/faq.html"}', '{"@type":"ListItem","position":2,"name":"FAQ - Balloon Decoration Noida","item":"https://www.shriballoondecoration.com/faq.html"}')
+$c = $c.Replace('{"@type":"ListItem","position":2,"name":"FAQ","item":"https://auraballoondecor.in//faq.html"}', '{"@type":"ListItem","position":2,"name":"FAQ - Balloon Decoration Noida","item":"https://auraballoondecor.in//faq.html"}')
 
 # Update FAQ schema - replace old with Noida-focused one
 $oldFaq = '"mainEntity": [

@@ -21,8 +21,8 @@ $oldSchema = '<script type="application/ld+json">
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.shriballoondecoration.com/"},
-    {"@type":"ListItem","position":2,"name":"Gallery","item":"https://www.shriballoondecoration.com/gallery.html"}
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://auraballoondecor.in//"},
+    {"@type":"ListItem","position":2,"name":"Gallery","item":"https://auraballoondecor.in//gallery.html"}
   ]
 }
 </script>'
@@ -32,8 +32,8 @@ $newSchema = '<script type="application/ld+json">
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type":"ListItem","position":1,"name":"Home","item":"https://www.shriballoondecoration.com/"},
-    {"@type":"ListItem","position":2,"name":"Balloon Decoration Gallery Noida","item":"https://www.shriballoondecoration.com/gallery.html"}
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://auraballoondecor.in//"},
+    {"@type":"ListItem","position":2,"name":"Balloon Decoration Gallery Noida","item":"https://auraballoondecor.in//gallery.html"}
   ]
 }
 </script>
@@ -43,9 +43,9 @@ $newSchema = '<script type="application/ld+json">
   "@type": "LocalBusiness",
   "name": "Aura Balloon Decoration Noida",
   "description": "Best balloon decoration service in Noida for birthdays, anniversaries, weddings, baby showers and all events. 500+ real photos in gallery.",
-  "url": "https://www.shriballoondecoration.com",
+  "url": "https://auraballoondecor.in/",
   "telephone": "+918639658712",
-  "image": "https://www.shriballoondecoration.com/image/banners/banner1.png",
+  "image": "https://auraballoondecor.in//image/banners/banner1.png",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Noida",
