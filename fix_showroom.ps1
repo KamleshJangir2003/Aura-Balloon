@@ -59,9 +59,9 @@ $seo = @'
     <p style="margin-top:12px">Our <strong>Real Estate Launch Decoration in Noida</strong> and corporate showroom setups are designed to impress investors, media and VIP guests. Every element is matched exactly to your brand colour palette for a consistent, professional look. We provide press-ready backdrops with your brand logo for social media and press coverage.</p>
     <p style="margin-top:12px">Aura Balloon is trusted by leading businesses across Noida for showroom launches, product unveils and brand events. Our team arrives on time, sets up professionally and removes everything neatly after the event. Book your <strong>Showroom Decoration near me in Noida</strong> today.</p>
     <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px">
-      <a href="new-opening.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F38A; New Opening</a>
-      <a href="corporate.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
-      <a href="stage.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3AA; Stage Decoration</a>
+      <a href="new-opening.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F38A; New Opening</a>
+      <a href="corporate.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
+      <a href="stage.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3AA; Stage Decoration</a>
       <a href="contact.html" style="background:#25d366;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F4DE; Book Now</a>
     </div>
   </div>

@@ -74,17 +74,17 @@ $seo = @'
   <div style="max-width:1100px;margin:0 auto">
     <div class="tc">
       <div class="stag">Balloon Decoration Gallery Noida</div>
-      <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-bottom:10px">Real Decoration Photos from <span style="color:#e91e8c">Noida</span></h2>
-      <div style="width:50px;height:3px;background:#e91e8c;margin:0 auto 20px"></div>
+      <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-bottom:10px">Real Decoration Photos from <span style="color:#7c3aed">Noida</span></h2>
+      <div style="width:50px;height:3px;background:#7c3aed;margin:0 auto 20px"></div>
     </div>
     <div style="font-size:.92rem;color:#444;line-height:1.9;max-width:900px;margin:0 auto">
       <p>Welcome to the <strong>Balloon Decoration Gallery of Aura Balloon Noida</strong> — your one-stop destination to see 500+ real event decoration photos from across Noida. Browse through birthday decoration, anniversary decoration, baby shower, wedding, kids birthday, haldi, mehndi, bachelorette, corporate events, festival decoration, pet birthday, new opening and showroom decoration photos — all executed by our team right here in Noida.</p>
       <p style="margin-top:12px">Every photo in this gallery is from a real event we decorated in Noida areas including Vijay Nagar, Palasia, New Palasia, Nipania, Rajendra Nagar, Khajrana, Lasudia, Bengali Square, Super Corridor, MR10, Ring Road, Scheme No 54, Scheme No 78, Mahalaxmi Nagar, Kanadia Road, Annapurna, Sudama Nagar, Navlakha, Pipliyahana, Silicon City, Dewas Naka, Airport Road, Bhawarkua, LIG, MIG, Patnipura, Geeta Bhawan, Musakhedi and Rau.</p>
       <p style="margin-top:12px">Use the filter buttons above to browse by category — whether you are looking for <strong>Birthday Decoration ideas in Noida</strong>, <strong>Anniversary Decoration photos from Noida</strong>, or <strong>Kids Birthday themes in Noida</strong>, you will find real inspiration from our actual work. Every setup is fully customisable to your theme, colour and budget.</p>
       <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
-        <a href="birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
-        <a href="anniversary.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x2764;&#xFE0F; Anniversary Decoration</a>
-        <a href="kids-birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F9D2; Kids Birthday</a>
+        <a href="birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
+        <a href="anniversary.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x2764;&#xFE0F; Anniversary Decoration</a>
+        <a href="kids-birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F9D2; Kids Birthday</a>
         <a href="contact.html" style="background:#25d366;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F4DE; Book Now</a>
       </div>
     </div>

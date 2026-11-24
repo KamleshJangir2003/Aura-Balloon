@@ -55,9 +55,9 @@ $seo = @'
     <p style="margin-top:12px">Our <strong>New Year Decoration in Noida</strong> includes gold and silver glam setups with year foil balloons, countdown displays and photo booths perfect for New Year Eve parties. We also cover Holi, Eid, Navratri, Ganesh Chaturthi and all major festivals with themed balloon and floral setups.</p>
     <p style="margin-top:12px">Whether it is a home festival celebration or an <strong>Office Festival Decoration in Noida</strong>, our team delivers on time with full setup and cleanup. Book your <strong>Festival Decoration near me in Noida</strong> today by calling or WhatsApp.</p>
     <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px">
-      <a href="corporate.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
-      <a href="new-opening.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F38A; New Opening</a>
-      <a href="birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
+      <a href="corporate.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
+      <a href="new-opening.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F38A; New Opening</a>
+      <a href="birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
       <a href="contact.html" style="background:#25d366;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F4DE; Book Now</a>
     </div>
   </div>

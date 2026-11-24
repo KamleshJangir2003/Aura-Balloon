@@ -60,7 +60,7 @@ $c = $c.Replace($oldBread, $newBread)
 # H1 & subheading in contact header section
 $c = $c.Replace('<div class="ch">
   <img src="image/banners.png" alt="Contact Banner">
-</div>', '<div class="ch" style="margin-top:68px;background:linear-gradient(135deg,#1a1a2e 0%,#e91e8c 100%);padding:60px 5%;text-align:center">
+</div>', '<div class="ch" style="margin-top:68px;background:linear-gradient(135deg,#1a1a2e 0%,#7c3aed 100%);padding:60px 5%;text-align:center">
   <h1 style="font-family:Playfair Display,serif;color:#fff;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:700;margin-bottom:12px">Contact Balloon Decorator in Noida</h1>
   <p style="color:rgba(255,255,255,.85);font-size:1rem;max-width:600px;margin:0 auto">Call or WhatsApp +91 86396 58712 for birthday, anniversary, wedding & all event decoration bookings across Noida</p>
 </div>')
@@ -85,18 +85,18 @@ $seo = @'
 <section style="background:#f8f4f9;padding:50px 5%">
   <div style="max-width:900px;margin:0 auto">
     <div style="text-align:center;margin-bottom:28px">
-      <span style="background:#e91e8c;color:#fff;padding:6px 18px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:1px">CONTACT US</span>
-      <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-top:12px">Balloon Decoration Service Areas in <span style="color:#e91e8c">Noida</span></h2>
-      <div style="width:50px;height:3px;background:#e91e8c;margin:12px auto 0"></div>
+      <span style="background:#7c3aed;color:#fff;padding:6px 18px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:1px">CONTACT US</span>
+      <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-top:12px">Balloon Decoration Service Areas in <span style="color:#7c3aed">Noida</span></h2>
+      <div style="width:50px;height:3px;background:#7c3aed;margin:12px auto 0"></div>
     </div>
     <div style="font-size:.92rem;color:#444;line-height:1.9">
       <p>Aura Balloon Decoration is Noida's most trusted balloon and event decoration service. We provide <strong>Balloon Decoration in Noida</strong> for birthdays, anniversaries, baby showers, weddings, corporate events, festivals and all special occasions. Our team is available 24/7 and serves all areas of Noida including Vijay Nagar, Palasia, New Palasia, Old Palasia, Nipania, Rajendra Nagar, Khajrana, Lasudia, Bengali Square, Super Corridor, MR10, Ring Road, Scheme No 54, Scheme No 78, Mahalaxmi Nagar, Kanadia Road, Annapurna, Sudama Nagar, Navlakha, Pipliyahana, Silicon City, Dewas Naka, Airport Road, Bhawarkua, LIG, MIG, Patnipura, Geeta Bhawan, Musakhedi and Rau.</p>
       <p style="margin-top:12px">To book your decoration, simply call us at <strong>+91 86396 58712</strong> or send us a WhatsApp message. Our team responds within 30 minutes and will help you choose the perfect decoration package for your event. You can also fill out the contact form above and we will reach out to you immediately.</p>
       <p style="margin-top:12px">Whether you are looking for <strong>Birthday Decoration near me in Noida</strong>, <strong>Anniversary Decoration in Noida</strong>, or any other event decoration, Aura Balloon is your one-stop solution. We are open 24 hours, 7 days a week, 365 days a year.</p>
       <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
-        <a href="birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
-        <a href="anniversary.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x2764;&#xFE0F; Anniversary Decoration</a>
-        <a href="gallery.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F5BC;&#xFE0F; View Gallery</a>
+        <a href="birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
+        <a href="anniversary.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x2764;&#xFE0F; Anniversary Decoration</a>
+        <a href="gallery.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F5BC;&#xFE0F; View Gallery</a>
         <a href="faq.html" style="background:#1a1a2e;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x2753; FAQ</a>
       </div>
     </div>

@@ -59,9 +59,9 @@ $seo = @'
     <p style="margin-top:12px">We specialise in <strong>Restaurant Opening Decoration in Noida</strong>, <strong>Clinic Opening Decoration in Noida</strong>, boutique launches, gym openings and all types of new business inaugurations. Our Corporate Office Launch package includes reception area decoration, branded backdrops, company name displays and press-ready setups.</p>
     <p style="margin-top:12px">Whether you are opening a small shop in Vijay Nagar or launching a large showroom on Ring Road, our team delivers a professional, crowd-attracting setup on time and within budget. Book your <strong>New Opening Decoration near me in Noida</strong> today by calling or WhatsApp.</p>
     <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px">
-      <a href="showroom.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3EA; Showroom Decoration</a>
-      <a href="corporate.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
-      <a href="festival.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1FA94; Festival Decoration</a>
+      <a href="showroom.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3EA; Showroom Decoration</a>
+      <a href="corporate.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F3E2; Corporate Event</a>
+      <a href="festival.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1FA94; Festival Decoration</a>
       <a href="contact.html" style="background:#25d366;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F4DE; Book Now</a>
     </div>
   </div>

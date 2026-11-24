@@ -87,12 +87,12 @@ $seo = @'
 <!-- LOCAL SEO CONTENT -->
 <section style="background:#f8f4f9;padding:50px 5%">
   <div style="max-width:900px;margin:0 auto;text-align:center">
-    <span style="background:#e91e8c;color:#fff;padding:6px 18px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:1px">BALLOON DECORATION Noida</span>
-    <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-top:12px">Still Have Questions? <span style="color:#e91e8c">Contact Us</span></h2>
-    <div style="width:50px;height:3px;background:#e91e8c;margin:12px auto 20px"></div>
+    <span style="background:#7c3aed;color:#fff;padding:6px 18px;border-radius:20px;font-size:12px;font-weight:600;letter-spacing:1px">BALLOON DECORATION Noida</span>
+    <h2 style="font-family:Playfair Display,serif;font-size:clamp(1.4rem,3vw,2rem);font-weight:700;color:#1a1a2e;margin-top:12px">Still Have Questions? <span style="color:#7c3aed">Contact Us</span></h2>
+    <div style="width:50px;height:3px;background:#7c3aed;margin:12px auto 20px"></div>
     <p style="font-size:.92rem;color:#444;line-height:1.9;max-width:700px;margin:0 auto">Can not find the answer you are looking for? Our team is available 24/7 to answer all your questions about <strong>balloon decoration in Noida</strong>. We serve Vijay Nagar, Palasia, Nipania, Rajendra Nagar, Rau and all Noida areas. Call or WhatsApp us at <strong>+91 86396 58712</strong> for instant assistance.</p>
     <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
-      <a href="contact.html" style="background:#e91e8c;color:#fff;padding:12px 28px;border-radius:22px;text-decoration:none;font-size:14px;font-weight:600">&#x1F4DE; Contact Us</a>
+      <a href="contact.html" style="background:#7c3aed;color:#fff;padding:12px 28px;border-radius:22px;text-decoration:none;font-size:14px;font-weight:600">&#x1F4DE; Contact Us</a>
       <a href="https://wa.me/918639658712" style="background:#25d366;color:#fff;padding:12px 28px;border-radius:22px;text-decoration:none;font-size:14px;font-weight:600">&#x1F4AC; WhatsApp Now</a>
       <a href="gallery.html" style="background:#1a1a2e;color:#fff;padding:12px 28px;border-radius:22px;text-decoration:none;font-size:14px;font-weight:600">&#x1F5BC;&#xFE0F; View Gallery</a>
     </div>

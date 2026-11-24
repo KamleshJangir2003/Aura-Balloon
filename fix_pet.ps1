@@ -59,9 +59,9 @@ $seo = @'
     <p style="margin-top:12px">We also specialise in <strong>Gotcha Day Decoration in Noida</strong> to celebrate the day you brought your pet home, and pet photo shoot setups with balloon walls, foil letter names and flower petal carpets. Our Grand Pawty Setup is the most popular package with a full paw print arch, "It's My Paw-ty" backdrop and multiple photo spots.</p>
     <p style="margin-top:12px">Every pet decoration by Aura Balloon is designed with your pet's safety as the top priority. Our team sets up and cleans up everything so you can focus on celebrating with your furry family member. Book your <strong>Pet Birthday Decoration near me in Noida</strong> today on WhatsApp.</p>
     <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:12px">
-      <a href="kids-birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F9D2; Kids Birthday</a>
-      <a href="birthday.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
-      <a href="gallery.html" style="background:#e91e8c;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F5BC;&#xFE0F; View Gallery</a>
+      <a href="kids-birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F9D2; Kids Birthday</a>
+      <a href="birthday.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F382; Birthday Decoration</a>
+      <a href="gallery.html" style="background:#7c3aed;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F5BC;&#xFE0F; View Gallery</a>
       <a href="contact.html" style="background:#25d366;color:#fff;padding:10px 20px;border-radius:22px;text-decoration:none;font-size:13px;font-weight:600">&#x1F4DE; Book Now</a>
     </div>
   </div>
